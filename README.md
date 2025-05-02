@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    Connected Dominating Set Algorithms with NetworkX
+    Connected Dominating Sets in NetworkX
     <br>
 </h3>
 
