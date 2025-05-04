@@ -10,7 +10,7 @@
 
 <h3 align="center">
     <a href="https://github.com/GalMichaeli">Gal Michaeli</a> •
-    <a href="https://github.com/SergeyMashkin">Daniel Ben Shlush</a>
+    <a href="https://github.com/Danielbsu1">Daniel Ben Shlush</a>
 </h3>
 
 <h4 align="center">Project A<br>Technion ECE 0440167 Winter 2025</h4>
